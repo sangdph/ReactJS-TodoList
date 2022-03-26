@@ -50,7 +50,7 @@ class Todolist extends React.Component {
   };
   render(){
     return (
-      <div className="App">
+      <div className="App" >
           <br/>
           To do List Sin236: {this.props.name}
           <br/>
