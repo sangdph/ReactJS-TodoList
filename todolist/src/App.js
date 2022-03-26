@@ -20,10 +20,10 @@ class App extends React.Component {
             <tbody>
               <tr>
                 <td>
-                  <Todolist name='Đi chợ'/>
+                  <Todolist name='Đi chợ với Nhi'/>
                 </td>
                 <td>
-                  <Todolist name='Đi shopping'/>
+                  <Todolist name='Đi shopping với Nhi'/>
                 </td>
               </tr>
             </tbody>
